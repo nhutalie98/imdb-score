@@ -1,2 +1,2 @@
 # imdb-score-eda
-Use R to have an EDA on IMDB score
+Use R to predict IMDB scores
